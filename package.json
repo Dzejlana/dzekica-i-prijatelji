@@ -1,0 +1,22 @@
+{
+  "name": "aminrestoran",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dzejlana/dzekica-i-prijatelji.git"
+  },
+  "author": "dzejlana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dzejlana/dzekica-i-prijatelji/issues"
+  },
+  "homepage": "https://github.com/Dzejlana/dzekica-i-prijatelji#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
